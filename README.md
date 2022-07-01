@@ -4,7 +4,7 @@
 
 在工厂模式中，我们在创建对象时不会对客户端暴露创建逻辑，并且是通过使用一个共同的接口来指向新创建的对象。
 
-一. 设计模式
+# 一. 设计模式
 
 1.[工厂模式](https://www.ljjyy.com/archives/2022/07/100684.html#1-%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F)
 
@@ -52,7 +52,7 @@
 
 23.[访问者模式](https://www.ljjyy.com/archives/2022/07/100684.html#23-%E8%AE%BF%E9%97%AE%E8%80%85%E6%A8%A1%E5%BC%8F)
 
-二.涉及的知识
+# 二.涉及的知识
 
 1.[volatile和synchronize](https://www.ljjyy.com/archives/2022/07/100684.html#1-volatile%E5%92%8Csynchronize)
 

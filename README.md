@@ -48,7 +48,7 @@
 
 21.[策略模式](https://www.ljjyy.com/archives/2022/07/100684.html#21-%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F)
 
-22. [模版方法模式](https://www.ljjyy.com/archives/2022/07/100684.html#22-%E6%A8%A1%E7%89%88%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F)
+22.[模版方法模式](https://www.ljjyy.com/archives/2022/07/100684.html#22-%E6%A8%A1%E7%89%88%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F)
 
 23.[访问者模式](https://www.ljjyy.com/archives/2022/07/100684.html#23-%E8%AE%BF%E9%97%AE%E8%80%85%E6%A8%A1%E5%BC%8F)
 

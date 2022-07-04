@@ -67,7 +67,8 @@ GOF设计模式根据作用范围划分为二种类型：
 23.[访问者模式](https://www.ljjyy.com/archives/2022/07/100684.html#23-%E8%AE%BF%E9%97%AE%E8%80%85%E6%A8%A1%E5%BC%8F)
 
 # 三.设计模式类间关系
-1.[关联关系(Association)](https://www.ljjyy.com/archives/2022/07/100684.html#1-%E5%85%B3%E8%81%94%E5%85%B3%E7%B3%BB-Association)
+
+1. [关联关系(Association)](https://www.ljjyy.com/archives/2022/07/100684.html#1-%E5%85%B3%E8%81%94%E5%85%B3%E7%B3%BB-Association)
 
 2. [聚合关系(Aggregation)](https://www.ljjyy.com/archives/2022/07/100684.html#2-%E8%81%9A%E5%90%88%E5%85%B3%E7%B3%BB-Aggregation)
 
@@ -81,6 +82,7 @@ GOF设计模式根据作用范围划分为二种类型：
 
 
 # 四.设计模式七大原则
+
 1、[单一职责原则](https://www.ljjyy.com/archives/2022/07/100684.html#1%E3%80%81%E5%8D%95%E4%B8%80%E8%81%8C%E8%B4%A3%E5%8E%9F%E5%88%99)
 
 2、[接口隔离原则](https://www.ljjyy.com/archives/2022/07/100684.html#2%E3%80%81-%E6%8E%A5%E5%8F%A3%E9%9A%94%E7%A6%BB%E5%8E%9F%E5%88%99)

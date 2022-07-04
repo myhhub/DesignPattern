@@ -18,19 +18,6 @@ GOF设计模式根据作用范围划分为二种类型：
 
 对象模式：用于处理对象之间的关系，这些关系可以通过组合或聚合来实现，在运行时刻是可以变化的，更具动态性。除了以上 4 种，其他的都是对象模式。
 
-备注：斜粗体设计模式即应用于类也应用于对象，其它只可以应用于对象。
-
-J2EE设计模式：
-设计模式除了上面GOF提出的23种外还包括其他场景种的模式如Sun Java Center提出的J2EE模式，这些模式主要关注表示层。包括：
-
-MVC 模式（MVC Pattern）
-业务代表模式（Business Delegate Pattern）
-组合实体模式（Composite Entity Pattern）
-数据访问对象模式（Data Access Object Pattern）
-前端控制器模式（Front Controller Pattern）
-拦截过滤器模式（Intercepting Filter Pattern）
-服务定位器模式（Service Locator Pattern）
-传输对象模式（Transfer Object Pattern）
 
 # 一. 设计模式
 

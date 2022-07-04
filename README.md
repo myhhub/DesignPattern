@@ -1,4 +1,4 @@
-[设计模式（Design pattern）完整教程](https://www.ljjyy.com/archives/2022/07/100684.html)，通过使用场景、关键代码、优点、缺点、实际案例讲解设计模式，把容易混淆的设计模式进行区别对比，保证完全弄懂及掌握23种设计模式，不仅有助于通过软考，更有助于提高开发水平。
+[设计模式（Design pattern）完整教程](https://www.ljjyy.com/archives/2022/07/100684.html)，通过使用场景、关键代码、优点、缺点、实际案例讲解设计模式，把容易混淆的设计模式进行区别对比，保证完全弄懂掌握23种设计模式和设计模式的七大原则，不仅有助于通过软考，更有助于提高开发水平。
 
 
 GOF设计模式根据目的划分为三种类型：
@@ -17,8 +17,9 @@ GOF设计模式根据作用范围划分为二种类型：
 
 对象模式：用于处理对象之间的关系，这些关系可以通过组合或聚合来实现，在运行时刻是可以变化的，更具动态性。
 
+# 一. [设计模式目的](https://www.ljjyy.com/archives/2022/07/100684.html#%E4%B8%80-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%9B%AE%E7%9A%84)
 
-# 一. 设计模式
+# 二. 设计模式
 
 1.[工厂模式](https://www.ljjyy.com/archives/2022/07/100684.html#1-%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F)
 
@@ -66,7 +67,24 @@ GOF设计模式根据作用范围划分为二种类型：
 
 23.[访问者模式](https://www.ljjyy.com/archives/2022/07/100684.html#23-%E8%AE%BF%E9%97%AE%E8%80%85%E6%A8%A1%E5%BC%8F)
 
-# 二.涉及的知识
+# 三.设计模式类间关系
+1.[关联关系(Association)](https://www.ljjyy.com/archives/2022/07/100684.html#1-%E5%85%B3%E8%81%94%E5%85%B3%E7%B3%BB-Association)
+2. [聚合关系(Aggregation)](https://www.ljjyy.com/archives/2022/07/100684.html#2-%E8%81%9A%E5%90%88%E5%85%B3%E7%B3%BB-Aggregation)
+3. [组合关系(Composition)](https://www.ljjyy.com/archives/2022/07/100684.html#3-%E7%BB%84%E5%90%88%E5%85%B3%E7%B3%BB-Composition)
+4. [依赖关系(Dependency)](https://www.ljjyy.com/archives/2022/07/100684.html#4-%E4%BE%9D%E8%B5%96%E5%85%B3%E7%B3%BB-Dependency)
+5. [泛化关系(Generalization)](https://www.ljjyy.com/archives/2022/07/100684.html#5-%E6%B3%9B%E5%8C%96%E5%85%B3%E7%B3%BB-Generalization)
+6. [实现关系(Realization)](https://www.ljjyy.com/archives/2022/07/100684.html#6-%E5%AE%9E%E7%8E%B0%E5%85%B3%E7%B3%BB-Realization)
+
+# 四.设计模式七大原则
+1、[单一职责原则](https://www.ljjyy.com/archives/2022/07/100684.html#1%E3%80%81%E5%8D%95%E4%B8%80%E8%81%8C%E8%B4%A3%E5%8E%9F%E5%88%99)
+2、[接口隔离原则](https://www.ljjyy.com/archives/2022/07/100684.html#2%E3%80%81-%E6%8E%A5%E5%8F%A3%E9%9A%94%E7%A6%BB%E5%8E%9F%E5%88%99)
+3、[依赖倒转原则](https://www.ljjyy.com/archives/2022/07/100684.html#3%E3%80%81-%E4%BE%9D%E8%B5%96%E5%80%92%E8%BD%AC%E5%8E%9F%E5%88%99)
+4、[里氏替换原则](https://www.ljjyy.com/archives/2022/07/100684.html#4%E3%80%81-%E9%87%8C%E6%B0%8F%E6%9B%BF%E6%8D%A2%E5%8E%9F%E5%88%99)
+5、[开闭原则](https://www.ljjyy.com/archives/2022/07/100684.html#5%E3%80%81%E5%BC%80%E9%97%AD%E5%8E%9F%E5%88%99)
+6、[迪米特法则](https://www.ljjyy.com/archives/2022/07/100684.html#6%E3%80%81-%E8%BF%AA%E7%B1%B3%E7%89%B9%E6%B3%95%E5%88%99)
+7、[合成复用原则](https://www.ljjyy.com/archives/2022/07/100684.html#7%E3%80%81%E5%90%88%E6%88%90%E5%A4%8D%E7%94%A8%E5%8E%9F%E5%88%99)
+
+# 五.涉及的知识
 
 1.[volatile和synchronize](https://www.ljjyy.com/archives/2022/07/100684.html#1-volatile%E5%92%8Csynchronize)
 
